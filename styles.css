@@ -1,0 +1,45 @@
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a basic font */
+  body{
+    font-family: 'Arial', sans-serif;
+    background-color: black;
+    color: white;
+  }
+
+  img{
+    border-radius: 50%;
+  }
+
+ .black_history{
+  border-radius: 0%;
+ }
+
+.footer{
+  size: 100px;
+  justify-content: space-around;
+ }
+
+.lower-header{
+  justify-content: flex-end;
+  align-items: self-end;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.hello{
+  margin-right: 35px;
+  justify-content: center;
+  border: 3px solid rgb(136, 21, 21);
+}
+
+h3{
+  color: white;
+  display: flex;
+  align-items: flex-end;
+}
+
